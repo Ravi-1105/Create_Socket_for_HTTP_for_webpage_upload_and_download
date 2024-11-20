@@ -56,7 +56,7 @@ if __name__ == "__main__":
     print("File downloaded successfully.")
 ```
 ## OUTPUT
-![image](https://github.com/user-attachments/assets/6e3caa1b-a33b-41b9-ab62-8b41259d278d)
+![image](https://github.com/user-attachments/assets/f86ed57a-efde-48c9-b2a1-74c355bc1d77)
 
 ## Result
 Thus the socket for HTTP for web page upload and download created and Executed
